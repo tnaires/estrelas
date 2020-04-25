@@ -9,4 +9,4 @@ Esse é um programa que gera um céu estrelado aleatório de acordo com o seguin
 
 O céu tende a ficar mais realista conforme o valor de N for crescendo, mas para valores muito altos de N o algoritmo pode ficar bastante lento. O algoritmo também pode gerar estrelas muito próximas umas das outras.
 
-Acesse http://tnaires.github.com/estrelas/ para conferir o algoritmo funcionando para N = 5.
+Acesse http://tnaires.github.io/estrelas/ para conferir o algoritmo funcionando para N = 5.
